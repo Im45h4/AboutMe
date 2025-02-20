@@ -27,7 +27,7 @@ Although I'm still a student, I actively work on projects to enhance my skills:
 
 ## 🔬 Projects  
 
-### 🌦 Weather Analysis Project  
+### 🌦 Weather Analysis Project  *(still in development)*
 A **data-driven weather analytics tool** that processes real-time weather data to provide accurate forecasts and uncover trends.  
 
 #### 🔹 Key Features:  
@@ -36,7 +36,8 @@ A **data-driven weather analytics tool** that processes real-time weather data t
 ✔️ **Visualization & Insights** – Uses Python libraries like Matplotlib and Seaborn.  
 ✔️ **Trend Analysis & Forecasting** – Identifies patterns for predictions.  
 
-📌 **[🔗 GitHub Repository](#)** | **[🔗 Live Demo](#)**  
+
+📌 **[🔗 GitHub Repository](https://github.com/Im45h4/Weather-api)** | **[🔗 Live Demo](#)**  
 
 ---
 
