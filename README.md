@@ -1,35 +1,51 @@
-# Works On Data Science
+# 💡 Works on Data Science  
 
-Hello! I’m a dedicated Data Science student passionate about turning raw data into actionable insights. I'm currently pursuing my **BSc (Hons) in Information Technology**, specializing in **Data Science**. My work focuses on exploring data, building predictive models, and uncovering patterns that help solve real-world problems.
-
----
-
-## Education
-**BSc (Hons) in Information Technology**  
-*Specialising in Data Science*  | Sri Lanka Institute of Information Technology *(Ongoing)*
-
----
-
-## Work Experience
-While I'm still studying, I'm actively engaged in hands-on projects that allow me to apply my data science skills:
-- **Ongoing Projects:** Constantly exploring new datasets, refining machine learning models, and experimenting with innovative analysis techniques.
+Hello! I’m a dedicated **Data Science student** passionate about turning raw data into actionable insights.  
+Currently pursuing a **BSc (Hons) in Information Technology**, specializing in **Data Science**.  
+I focus on:  
+✅ Exploring data 📊  
+✅ Building predictive models 🤖  
+✅ Uncovering patterns that solve real-world problems 🌍  
 
 ---
 
-## Projects
-
-### Weather Analysis Project
-A data-driven project that leverages real-time weather data to provide accurate forecasts and uncover weather patterns.  
-**Key Highlights:**
-- **Data Collection & Cleaning:** Retrieves and preprocesses live weather data from public APIs.
-- **Visualization:** Uses Python libraries like Matplotlib and Seaborn to create engaging charts and graphs.
-- **Insight Generation:** Analyzes weather trends to deliver practical insights and predictions.
-
-
+## 🎓 Education  
+📍 **BSc (Hons) in Information Technology** *(Ongoing)*  
+- **Specialization:** Data Science  
+- **Institution:** Sri Lanka Institute of Information Technology (SLIIT)  
 
 ---
 
-## Connect with Me  
+## 💼 Work Experience  
+Although I'm still a student, I actively work on projects to enhance my skills:  
+✅ **Data Exploration & Analysis**  
+✅ **Machine Learning Model Development**  
+✅ **Data Cleaning & Preprocessing**  
+✅ **Building End-to-End Data Solutions**  
+
+---
+
+## 🔬 Projects  
+
+### 🌦 Weather Analysis Project  
+A **data-driven weather analytics tool** that processes real-time weather data to provide accurate forecasts and uncover trends.  
+
+#### 🔹 Key Features:  
+✔️ **Real-time Data Collection** – Fetches live weather data from APIs.  
+✔️ **Data Cleaning & Processing** – Ensures high-quality, structured data.  
+✔️ **Visualization & Insights** – Uses Python libraries like Matplotlib and Seaborn.  
+✔️ **Trend Analysis & Forecasting** – Identifies patterns for predictions.  
+
+📌 **[🔗 GitHub Repository](#)** | **[🔗 Live Demo](#)**  
+
+---
+
+## 🔗 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/im45h4)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/im45h4/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/im45h4/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/im45h4)  
+
+---
+
+📌 **Thanks for visiting my portfolio!** Looking forward to exciting collaborations. 🚀  
