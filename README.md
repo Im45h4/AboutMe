@@ -1,4 +1,4 @@
-# Hi! I turn messy data into "aha!" moments.
+# Solving Problems with Precision-Beyond Predictions
  
 
 Hello! I’m a dedicated **Data Science student** passionate about turning raw data into actionable insights.  
