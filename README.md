@@ -25,8 +25,6 @@ A data-driven project that leverages real-time weather data to provide accurate 
 - **Visualization:** Uses Python libraries like Matplotlib and Seaborn to create engaging charts and graphs.
 - **Insight Generation:** Analyzes weather trends to deliver practical insights and predictions.
 
-<!-- Add a screenshot of your Weather Analysis Project here -->
-![Weather Analysis Screenshot](path/to/your/weather_screenshot.jpg)
 
 
 ---
