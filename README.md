@@ -1,4 +1,5 @@
-# 💡 Works on Data Science  
+# 💡 Numbers Speak. I Just Translate.
+ 
 
 Hello! I’m a dedicated **Data Science student** passionate about turning raw data into actionable insights.  
 Currently pursuing a **BSc (Hons) in Information Technology**, specializing in **Data Science**.  
