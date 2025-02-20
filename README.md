@@ -1,4 +1,4 @@
-# 💡 Numbers Speak. I Just Translate.
+# Hi! I turn messy data into "aha!" moments.
  
 
 Hello! I’m a dedicated **Data Science student** passionate about turning raw data into actionable insights.  
